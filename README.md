@@ -1,7 +1,7 @@
 # Arduino Gobot
 
-[Arduino][] experiments in [Go][] using [Gobot][]
+[Arduino][1] experiments in [Go][2] using [Gobot][3]
 
-[Arduino](https://www.arduino.cc/)
-[Go](https://golang.org/)
-[Gobot](https://gobot.io/)
+[1]: https://www.arduino.cc/
+[2]: https://golang.org/
+[3]: https://gobot.io/
